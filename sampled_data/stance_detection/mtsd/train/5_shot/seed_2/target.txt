@@ -1,0 +1,5 @@
+attack	support
+support	attack
+attack	attack
+support	support
+attack	support

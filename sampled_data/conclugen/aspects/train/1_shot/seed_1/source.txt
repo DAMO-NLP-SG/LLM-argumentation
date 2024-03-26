@@ -1,0 +1,1 @@
+<|TOPIC|>Should we adopt a universal language?<|ARGUMENT|>A very high number of low-income Indians can not understand government documents and tax returns in India where English is the official language in addition to various native languages.<|ASPECTS|>low-income indians, understand, tax returns, government documents<|CONCLUSION|>

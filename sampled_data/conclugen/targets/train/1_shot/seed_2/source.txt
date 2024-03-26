@@ -1,0 +1,1 @@
+<|TOPIC|>Should the state grant benefits linked to marriage?<|ARGUMENT|>Millennials are more careful about who they marry, getting married at older ages when education, careers and finances are on track.<|TARGETS|>getting married at older ages when education careers and finances, Millennials<|CONCLUSION|>

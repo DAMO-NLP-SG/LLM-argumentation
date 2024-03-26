@@ -1,0 +1,10 @@
+attack	support
+support	attack
+support	attack
+support	attack
+attack	support
+neutral	neutral
+attack	support
+support	attack
+attack	support
+support	attack

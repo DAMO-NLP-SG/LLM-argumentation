@@ -1,0 +1,5 @@
+support	attack
+support	attack
+neutral	neutral
+support	attack
+support	attack
